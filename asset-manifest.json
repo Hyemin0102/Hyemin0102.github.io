@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a214ae04.css",
+    "main.js": "/static/js/main.e59c3022.js",
+    "static/media/MADE-Outer-Sans-Light-PERSONAL-USE.woff": "/static/media/MADE-Outer-Sans-Light-PERSONAL-USE.105c211645738510919f.woff",
+    "static/media/MADE-Outer-Sans-Alt-Bold-PERSONAL-USE.woff": "/static/media/MADE-Outer-Sans-Alt-Bold-PERSONAL-USE.f3dee83a8e5d65582616.woff",
+    "index.html": "/index.html",
+    "main.a214ae04.css.map": "/static/css/main.a214ae04.css.map",
+    "main.e59c3022.js.map": "/static/js/main.e59c3022.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a214ae04.css",
+    "static/js/main.e59c3022.js"
+  ]
+}
